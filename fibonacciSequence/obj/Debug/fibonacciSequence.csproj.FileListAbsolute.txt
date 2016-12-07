@@ -6,3 +6,9 @@ C:\Code\SampleIFS\fibonacciSequence\obj\Debug\fibonacciSequence.exe
 C:\Code\SampleIFS\fibonacciSequence\obj\Debug\fibonacciSequence.pdb
 C:\Code\SampleIFS\fibonacciSequence\bin\Debug\PrimeCheck.exe
 C:\Code\SampleIFS\fibonacciSequence\bin\Debug\PrimeCheck.pdb
+C:\Code\XeroCode\fibonacciSequence\bin\Debug\fibonacciSequence.exe.config
+C:\Code\XeroCode\fibonacciSequence\obj\Debug\fibonacciSequence.exe
+C:\Code\XeroCode\fibonacciSequence\obj\Debug\fibonacciSequence.pdb
+C:\Code\XeroCode\fibonacciSequence\bin\Debug\fibonacciSequence.exe
+C:\Code\XeroCode\fibonacciSequence\bin\Debug\fibonacciSequence.pdb
+C:\Code\XeroCode\fibonacciSequence\obj\Debug\fibonacciSequence.csprojResolveAssemblyReference.cache

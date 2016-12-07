@@ -1,0 +1,5 @@
+C:\Code\ShowMeDate\ShowMeDateDataLayer\bin\Debug\ShowMeDateDataLayer.dll
+C:\Code\ShowMeDate\ShowMeDateDataLayer\bin\Debug\ShowMeDateDataLayer.pdb
+C:\Code\ShowMeDate\ShowMeDateDataLayer\obj\Debug\ShowMeDateDataLayer.csprojResolveAssemblyReference.cache
+C:\Code\ShowMeDate\ShowMeDateDataLayer\obj\Debug\ShowMeDateDataLayer.dll
+C:\Code\ShowMeDate\ShowMeDateDataLayer\obj\Debug\ShowMeDateDataLayer.pdb

@@ -1,0 +1,10 @@
+C:\Code\ShowMeDate\ShowMeDateClient\bin\Debug\ShowMeDateClient.exe.config
+C:\Code\ShowMeDate\ShowMeDateClient\bin\Debug\ShowMeDateClient.exe
+C:\Code\ShowMeDate\ShowMeDateClient\bin\Debug\ShowMeDateClient.pdb
+C:\Code\ShowMeDate\ShowMeDateClient\bin\Debug\ShowMeDateBusiness.dll
+C:\Code\ShowMeDate\ShowMeDateClient\bin\Debug\ShowMeDateDataLayer.dll
+C:\Code\ShowMeDate\ShowMeDateClient\bin\Debug\ShowMeDateBusiness.pdb
+C:\Code\ShowMeDate\ShowMeDateClient\bin\Debug\ShowMeDateDataLayer.pdb
+C:\Code\ShowMeDate\ShowMeDateClient\obj\Debug\ShowMeDateClient.csprojResolveAssemblyReference.cache
+C:\Code\ShowMeDate\ShowMeDateClient\obj\Debug\ShowMeDateClient.exe
+C:\Code\ShowMeDate\ShowMeDateClient\obj\Debug\ShowMeDateClient.pdb
