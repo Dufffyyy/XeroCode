@@ -15,6 +15,21 @@ namespace ToDoListBusinessLayer
             return ToDoList;
         }
 
+        public List<string> addToList(string n)
+        {
+            ToDoLIstDBLayer.DataLayer db = new ToDoLIstDBLayer.DataLayer();
+            List<string> ToDoList = db.AddItem(n);
+            return ToDoList;
+        }
+
+        public List<string> deleteItem(string n)
+        {
+            ToDoLIstDBLayer.DataLayer db = new ToDoLIstDBLayer.DataLayer();
+            List<string> ToDoList = db.RemoveItem(n);
+            return ToDoList;
+        }
+
+
     }
 
 }
